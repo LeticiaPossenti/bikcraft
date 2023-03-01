@@ -1,0 +1,15 @@
+/* Estilos Globais*/
+@import "./global/global.css";
+@import "./utilidades/cores.css";
+@import "./utilidades/tipografia.css";
+@import "./global/header.css";
+
+/*Estilos Utilitários*/
+@import "./utilidades/componentes.css";
+
+/*Estilo Home*/
+@import "./home/introducao.css";
+@import "./home/tecnologia.css";
+
+/*Estilo Bicicletas*/
+@import "./bicicletas/bicicletas-listas.css"
