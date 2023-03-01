@@ -14,4 +14,7 @@
 @import "./home/depoimento.css";
 
 /*Estilo Bicicletas*/
-@import "./bicicletas/bicicletas-listas.css"
+@import "./bicicletas/bicicletas-listas.css";
+
+/*Estilo Seguros*/
+@import "./seguros/seguros.css";
