@@ -7,6 +7,7 @@
     margin-right: auto;
 }
 
+/* Botão padrão do site*/
 
 .botao{
     display: inline-block;
@@ -41,6 +42,8 @@
     }
 }
 
+/* Link padrão do site*/
+
 .link{
     display: inline-block;
     color: var(--cor-p1);
@@ -58,4 +61,29 @@
 
 .link:hover{
     color: var(--cor-00);
+}
+
+/* Títulos padrão das páginas internas*/
+
+.titulo-bg{
+    background-color: var(--cor-11);
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+.titulo p {
+    margin-bottom: 4px;
+}
+
+@media(max-width:800px){
+    .titulo{
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+
+    titulo p {
+        font-size: 1rem;
+        text-transform: lowercase;
+        font-weight: 400;
+    }
 }

@@ -20,3 +20,6 @@
 
 /*Estilo Seguros*/
 @import "./seguros/seguros.css";
+
+/*Estilo da página de termos e condições*/
+@import "./termos/termos.css";
