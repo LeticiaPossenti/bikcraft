@@ -16,10 +16,11 @@
 @import "./home/depoimento.css";
 
 /*Estilo Bicicletas*/
+@import "./bicicletas/bicicletas.css";
 @import "./bicicletas/bicicletas-listas.css";
 
 /*Estilo Seguros*/
 @import "./seguros/seguros.css";
 
-/*Estilo da página de termos e condições*/
+/*Estilo Termos e Condições*/
 @import "./termos/termos.css";
